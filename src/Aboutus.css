@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(163, 78, 21);
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-size: 16pt;
+    text-align: center;
+    font-size: 24px;
+    margin: 10px;
+    padding: 10px;
+}
+
+img {
+    width: 25%;
+    height: 200px;
+    margin: 3.5%;
+    padding: 4px;
+}

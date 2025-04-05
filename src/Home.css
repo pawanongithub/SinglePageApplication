@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    text-decoration: solid;
+
+}
+
+
+#bake p {
+    margin: 10px;
+    padding: 10px;
+    color: black;
+    float: left;
+    width: 50%;
+    height: 50px;
+    font-size: 24px;
+
+
+}
+
+#bake img {
+    float: right;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 90px;
+    width: 40%;
+
+
+
+}
