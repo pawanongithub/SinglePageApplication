@@ -13,7 +13,7 @@ import NavBar from './NavBar';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/Single-page-app-reactjjs">
         <NavBar />
         <Routes>
           <Route path="/" element={<Home />} />
