@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Single-page-app-reactjjs/static/css/main.91604820.css",
+    "main.js": "/Single-page-app-reactjjs/static/js/main.effa66b1.js",
+    "static/media/img1.jpg": "/Single-page-app-reactjjs/static/media/img1.17a4da8b6e637636a9b8.jpg",
+    "static/media/img3.jpeg": "/Single-page-app-reactjjs/static/media/img3.961d1b9b1dd082eba731.jpeg",
+    "static/media/cupcake2.jpeg": "/Single-page-app-reactjjs/static/media/cupcake2.1082d02df49530c9c2d2.jpeg",
+    "static/media/img2.jpeg": "/Single-page-app-reactjjs/static/media/img2.1ff0ee2a9ec9eb498df6.jpeg",
+    "static/media/black-forest-cake.jpg": "/Single-page-app-reactjjs/static/media/black-forest-cake.98dcd682ca4b025c120c.jpg",
+    "static/media/36.jpg": "/Single-page-app-reactjjs/static/media/36.9e121e5a079486cfc2ef.jpg",
+    "static/media/biscuties & cookies.png": "/Single-page-app-reactjjs/static/media/biscuties & cookies.33dd5d5d320f0ee49e91.png",
+    "static/media/croissants.png": "/Single-page-app-reactjjs/static/media/croissants.f7e34834c1fa276787a8.png",
+    "static/media/breads.png": "/Single-page-app-reactjjs/static/media/breads.9ae3c7b6c278687ba05e.png",
+    "static/media/strawberry special.png": "/Single-page-app-reactjjs/static/media/strawberry special.4704dc3b9836dfb19f1d.png",
+    "index.html": "/Single-page-app-reactjjs/index.html",
+    "main.91604820.css.map": "/Single-page-app-reactjjs/static/css/main.91604820.css.map",
+    "main.effa66b1.js.map": "/Single-page-app-reactjjs/static/js/main.effa66b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91604820.css",
+    "static/js/main.effa66b1.js"
+  ]
+}
