@@ -1,6 +1,7 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 import './Contact';
+import React from "react";
 
 
 import Home from './Home';
@@ -13,10 +14,11 @@ import NavBar from './NavBar';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter basename="/Single-page-app-reactjjs">
+      <Router>
         <NavBar />
+
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route exact path="/" element={<Home />} />
           <Route path="/Aboutus" element={<Aboutus />} />
           <Route path="/Product" element={<Product />} />
           <Route path="/Contact" element={<Contact />} />
@@ -24,7 +26,7 @@ function App() {
 
         </Routes>
 
-      </BrowserRouter>
+      </Router>
       {/* 
       <Home />
       <Product />
